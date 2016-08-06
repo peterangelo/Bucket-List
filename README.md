@@ -4,7 +4,7 @@
  * ~~Own a car~~
  * Own a business
  * Own a house  
- -[] Own a dog
+-[ ] Own a dog
 
 ## Education
  * ~~High School~~
