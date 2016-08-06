@@ -1,4 +1,8 @@
 # Bucket-List
+<img src="https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/76/20131106124215!Mozilla_Firefox_logo_2013.svg/120px-Mozilla_Firefox_logo_2013.svg.png" width="180">
+
+Thank you for teacing us! We learned a lot and we are eager to learn more about Web Lit.
 
 ## Personal
 - [x] Own a car
