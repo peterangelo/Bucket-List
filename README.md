@@ -5,7 +5,7 @@
  * Own a business
  * Own a house  
 
-- [ ] Own a dog
+- [x] Own a dog
 
 ## Education
  * ~~High School~~
